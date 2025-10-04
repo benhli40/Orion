@@ -1,0 +1,21 @@
+{
+  "facts": {
+    "user_name": "Benjamin",
+    "role": "Developer",
+    "timezone": "America/Chicago",
+    "home_city": "Marble Falls",
+    "home_country": "US",
+    "weather_default": "Marble Falls, TX, US",
+    "units": "imperial",
+    "favorite_color": "blue",
+    "favorite_music": "ambient electronic",
+    "coffee_order": "vanilla latte",
+    "voice_preference": "natural, calm",
+    "news_interests": ["Texas", "AI", "Python", "SpaceX", "weather"],
+    "morning_brief_enabled": true,
+    "morning_brief_items": ["weather", "news"],
+    "search_domains_whitelist": ["python.org", "docs.python.org", "github.com", "texas.gov"],
+    "intro_blurb": "Orion is a JARVIS-like assistant for Benjamin: helpful, concise, a bit witty."
+  },
+  "conversations": []
+}

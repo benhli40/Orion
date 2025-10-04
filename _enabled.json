@@ -1,0 +1,9 @@
+{
+  "weather": true,
+  "news": true,
+  "search": true,
+  "diagnostics": true,
+  "hello": true,
+  "memory": true,
+  "registry": true
+}

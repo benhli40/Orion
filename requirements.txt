@@ -1,0 +1,8 @@
+google-genai
+python-dotenv
+RealtimeSTT
+elevenlabs
+feedparser
+requests
+beautifulsoup4
+wikipedia
